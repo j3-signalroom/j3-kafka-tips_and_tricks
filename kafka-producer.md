@@ -1,4 +1,4 @@
-# Kafka Producer
+# [Kafka Producer](https://github.com/j3-signalroom/j3-techstack-lexicon/blob/main/apache-kafka-glossary.md#kafka-producer)
 
 **Table of Contents**
 
