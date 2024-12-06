@@ -1,4 +1,4 @@
-# Kafka Consumer
+# [Kafka Consumer](https://github.com/j3-signalroom/j3-techstack-lexicon/blob/main/apache-kafka-glossary.md#kafka-consumer)
 
 **Table of Contents**
 
